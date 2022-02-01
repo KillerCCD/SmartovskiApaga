@@ -1,0 +1,18 @@
+# This is a generated file; do not edit or check into version control.
+flutter_plugin_android_lifecycle=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.4/
+geocoding=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/geocoding-1.0.5/
+google_maps_flutter=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-2.0.9/
+path_provider_linux=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+2/
+path_provider_windows=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-0.0.5/
+qr_code_scanner=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/qr_code_scanner-0.4.0/
+shared_preferences=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.12+4/
+shared_preferences_linux=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-0.0.2+4/
+shared_preferences_macos=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+11/
+shared_preferences_web=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+7/
+shared_preferences_windows=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-0.0.2+3/
+sqlite3_flutter_libs=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/sqlite3_flutter_libs-0.5.1/
+url_launcher=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10/
+url_launcher_linux=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-0.0.1+4/
+url_launcher_macos=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+9/
+url_launcher_web=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.5+3/
+url_launcher_windows=/home/coder/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-0.0.1+3/

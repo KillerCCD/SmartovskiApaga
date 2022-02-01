@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/drawable-v21_launch_background.xml.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/drawable-xxxhdpi_splash.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/drawable-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/drawable-xxhdpi_splash.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/drawable_loggo.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/drawable/loggo.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/mipmap-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/mipmap-xxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/drawable-v21_bg.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/drawable-v21/bg.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/drawable_splash.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/drawable/splash.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/drawable_logo_text.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/drawable/logo_text.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/mipmap-mdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/drawable-mdpi_splash.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/drawable-v21_launch_image.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/drawable-v21/launch_image.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/drawable-xhdpi_splash.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/drawable_splash4.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/drawable/splash4.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/drawable-hdpi_splash.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/mipmap-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "/home/coder/S_M_Apaga/SmartApaga_Finaly/android/app/src/main/res/mipmap-xxxhdpi/launcher_icon.png"
+    }
+]

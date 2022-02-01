@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/coder/.gradle/caches/transforms-3/e322c3bee414a0ff913daabcd0287398/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/coder/.gradle/caches/transforms-3/e322c3bee414a0ff913daabcd0287398/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/coder/.gradle/caches/transforms-3/e322c3bee414a0ff913daabcd0287398/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/coder/S_M_Apaga/SmartApaga_Finaly/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/coder/.gradle/caches/transforms-3/e322c3bee414a0ff913daabcd0287398/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    }
+]
