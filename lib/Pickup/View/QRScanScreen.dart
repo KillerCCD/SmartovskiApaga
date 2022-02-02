@@ -312,7 +312,7 @@ class _QRScanScreenState extends State<QRScanScreen> {
       } else {
         if (body['data'] == true && !codeBag.contains(result)) {
           _pushWastTypeScreen(result, context);
-
+          context.read<PickupBagProvider>().codeBagss(previewQr);
           // } else {
           //   showDialog(
           //       context: context,

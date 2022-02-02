@@ -80,9 +80,9 @@ class WastTypeScreenState extends State<WastTypeScreen> {
                         setState(() {
                           gestureTag = 0;
                         });
-                        pickupBagLib(types[0], barcode);
-                        context.read<PickupBagProvider>().addBags(new PickupBag(
-                            wasteType: types[0], bagCode: barcode));
+                        // context.read<PickupBagProvider>().updateBag(
+                        //       types[0],
+                        //     );
                       },
                       child: Container(
                         decoration: BoxDecoration(
@@ -125,9 +125,7 @@ class WastTypeScreenState extends State<WastTypeScreen> {
                         setState(() {
                           gestureTag = 1;
                         });
-                        pickupBagLib(types[1], barcode);
-                        context.read<PickupBagProvider>().addBags(new PickupBag(
-                            wasteType: types[1], bagCode: barcode));
+                        // context.read<PickupBagProvider>().updateBag(types[1]);
                       },
                       child: Container(
                         decoration: BoxDecoration(
@@ -173,10 +171,9 @@ class WastTypeScreenState extends State<WastTypeScreen> {
                         setState(() {
                           gestureTag = 2;
                         });
-                        pickupBagLib(types[2], barcode);
+                        // context.read<PickupBagProvider>().updateBag(types[2]);
+                        // pickupBagLib(types[2], barcode);
                         // _onGesturTap(gestureTag);
-                        context.read<PickupBagProvider>().addBags(new PickupBag(
-                            wasteType: types[2], bagCode: barcode));
                       },
                       child: Container(
                         decoration: BoxDecoration(
@@ -262,7 +259,11 @@ class WastTypeScreenState extends State<WastTypeScreen> {
                                   padding: EdgeInsets.all(8.0),
                                 ),
                                 onPressed: () {
-                                  Navigator.pop(context, wastes);
+                                  context.read<PickupBagProvider>().addBags(
+                                      new PickupBag(
+                                          wasteType: types[gestureTag],
+                                          bagCode: barcode));
+                                  Navigator.pop(context, true);
                                 },
                                 child: Text(
                                   AppLocalizations.of(context)
@@ -295,6 +296,10 @@ class WastTypeScreenState extends State<WastTypeScreen> {
                                   //           bagCode: barcode,
                                   //           pickupBags: wastes,
                                   //         )));
+                                  context.read<PickupBagProvider>().addBags(
+                                      new PickupBag(
+                                          wasteType: types[gestureTag],
+                                          bagCode: barcode));
                                   Navigator.push(
                                       context,
                                       MaterialPageRoute(

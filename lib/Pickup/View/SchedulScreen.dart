@@ -285,7 +285,10 @@ class _SchedulScreenState extends State<SchedulScreen> {
                   //actions: [MenuButton()],
                   leading: IconButton(
                     icon: Icon(Icons.arrow_back),
-                    onPressed: () => Navigator.pop(context, true),
+                    onPressed: () {
+                      context.read<PickupBagProvider>().deletWastType();
+                      Navigator.pop(context, true);
+                    },
                   )),
               endDrawer: MenuButton(),
               body: Center(
